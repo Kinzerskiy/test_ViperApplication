@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="21701" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES">
+    <device id="retina6_12" orientation="portrait" appearance="light"/>
+    <dependencies>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="21678"/>
+        <capability name="Safe area layout guides" minToolsVersion="9.0"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <customFonts key="customFonts">
+        <array key="ABeeZee-Regular.ttf">
+            <string>ABeeZee-Regular</string>
+        </array>
+    </customFonts>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner"/>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <tableViewCell contentMode="scaleToFill" selectionStyle="default" indentationWidth="10" rowHeight="204" id="KGk-i7-Jjw" customClass="UserTableViewCell" customModule="ios_test_app" customModuleProvider="target">
+            <rect key="frame" x="0.0" y="0.0" width="378" height="204"/>
+            <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+            <tableViewCellContentView key="contentView" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" tableViewCell="KGk-i7-Jjw" id="H2p-sc-9uM">
+                <rect key="frame" x="0.0" y="0.0" width="378" height="204"/>
+                <autoresizingMask key="autoresizingMask"/>
+                <subviews>
+                    <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Label" textAlignment="natural" lineBreakMode="tailTruncation" numberOfLines="0" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="opy-HL-Em1">
+                        <rect key="frame" x="12" y="7.9999999999999982" width="354" height="20.333333333333329"/>
+                        <fontDescription key="fontDescription" name="ABeeZee-Regular" family="ABeeZee" pointSize="17"/>
+                        <nil key="textColor"/>
+                        <nil key="highlightedColor"/>
+                    </label>
+                    <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Label" textAlignment="natural" lineBreakMode="tailTruncation" numberOfLines="2" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="UbX-b8-XqV">
+                        <rect key="frame" x="12" y="36.333333333333336" width="354" height="20.333333333333336"/>
+                        <fontDescription key="fontDescription" name="ABeeZee-Regular" family="ABeeZee" pointSize="17"/>
+                        <nil key="textColor"/>
+                        <nil key="highlightedColor"/>
+                    </label>
+                    <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Label" textAlignment="natural" lineBreakMode="tailTruncation" numberOfLines="0" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="uof-ff-Fcf">
+                        <rect key="frame" x="12" y="64.666666666666671" width="354" height="20.333333333333329"/>
+                        <fontDescription key="fontDescription" name="ABeeZee-Regular" family="ABeeZee" pointSize="17"/>
+                        <nil key="textColor"/>
+                        <nil key="highlightedColor"/>
+                    </label>
+                    <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Label" textAlignment="natural" lineBreakMode="tailTruncation" numberOfLines="0" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="d4M-Dd-Hp3">
+                        <rect key="frame" x="12" y="93" width="354" height="20.333333333333329"/>
+                        <fontDescription key="fontDescription" name="ABeeZee-Regular" family="ABeeZee" pointSize="17"/>
+                        <nil key="textColor"/>
+                        <nil key="highlightedColor"/>
+                    </label>
+                </subviews>
+                <constraints>
+                    <constraint firstAttribute="trailing" secondItem="UbX-b8-XqV" secondAttribute="trailing" constant="12" id="3OA-Qm-nNy"/>
+                    <constraint firstAttribute="trailing" secondItem="d4M-Dd-Hp3" secondAttribute="trailing" constant="12" id="8Ge-gR-ky0"/>
+                    <constraint firstItem="uof-ff-Fcf" firstAttribute="leading" secondItem="H2p-sc-9uM" secondAttribute="leading" constant="12" id="96c-Un-64B"/>
+                    <constraint firstAttribute="trailing" secondItem="opy-HL-Em1" secondAttribute="trailing" constant="12" id="Bx5-hT-h8R"/>
+                    <constraint firstItem="d4M-Dd-Hp3" firstAttribute="top" secondItem="uof-ff-Fcf" secondAttribute="bottom" constant="8" id="Dxq-cM-DPR"/>
+                    <constraint firstAttribute="trailing" secondItem="uof-ff-Fcf" secondAttribute="trailing" constant="12" id="MxV-lc-fFm"/>
+                    <constraint firstItem="opy-HL-Em1" firstAttribute="top" secondItem="H2p-sc-9uM" secondAttribute="top" constant="8" id="QuW-EC-AyJ"/>
+                    <constraint firstItem="uof-ff-Fcf" firstAttribute="top" secondItem="UbX-b8-XqV" secondAttribute="bottom" constant="8" id="RkH-Wy-Ggy"/>
+                    <constraint firstItem="UbX-b8-XqV" firstAttribute="leading" secondItem="H2p-sc-9uM" secondAttribute="leading" constant="12" id="UGj-A1-piQ"/>
+                    <constraint firstItem="UbX-b8-XqV" firstAttribute="top" secondItem="opy-HL-Em1" secondAttribute="bottom" constant="8" id="War-ga-NaD"/>
+                    <constraint firstItem="d4M-Dd-Hp3" firstAttribute="leading" secondItem="H2p-sc-9uM" secondAttribute="leading" constant="12" id="aHm-wj-yY8"/>
+                    <constraint firstItem="opy-HL-Em1" firstAttribute="leading" secondItem="H2p-sc-9uM" secondAttribute="leading" constant="12" id="hAz-3R-OmL"/>
+                    <constraint firstAttribute="bottom" relation="greaterThanOrEqual" secondItem="d4M-Dd-Hp3" secondAttribute="bottom" constant="12" id="sm2-w2-AYJ"/>
+                </constraints>
+            </tableViewCellContentView>
+            <viewLayoutGuide key="safeArea" id="njF-e1-oar"/>
+            <connections>
+                <outlet property="birthday" destination="UbX-b8-XqV" id="0DQ-yJ-nDS"/>
+                <outlet property="city" destination="uof-ff-Fcf" id="w7c-6S-Gty"/>
+                <outlet property="info" destination="d4M-Dd-Hp3" id="b7g-Ev-2es"/>
+                <outlet property="userName" destination="opy-HL-Em1" id="xl1-rZ-mPo"/>
+            </connections>
+            <point key="canvasLocation" x="83.969465648854964" y="97.887323943661983"/>
+        </tableViewCell>
+    </objects>
+</document>

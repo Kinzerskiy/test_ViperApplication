@@ -1,0 +1,20 @@
+### Headers settings
+company: none
+
+### Xcode project settings
+project_name: ios_test_app
+xcodeproj_path: ios_test_app.xcodeproj
+
+### Code generation settings section
+# The main project target name
+project_target: ios_test_app
+
+# The file path for new modules
+project_file_path: ios_test_app/Modules
+
+# The Xcode group path to new modules
+project_group_path: ios_test_app/Modules
+
+### Templates
+templates:
+- {name: viper_arch}

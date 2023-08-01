@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "831D71F4-2F5F-4249-8AB6-C7A707E8FFEA"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "AEDECBF3-C5AB-4D93-BF68-D08AD9B4AF3A"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ios_test_app/Modules/AditableDashboard/View/EditableDashboardViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "18"
+            endingLineNumber = "18"
+            landmarkName = "EditableDashboardViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "AEDECBF3-C5AB-4D93-BF68-D08AD9B4AF3A - eb5428418131e6ae"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ios_test_app.EditableDashboardViewController.persons.getter : Swift.Array&lt;ios_test_app.Persons&gt;"
+                  moduleName = "ios_test_app"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/macpro/Desktop/ios_test_app%202/ios_test_app/Modules/AditableDashboard/View/EditableDashboardViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "18"
+                  endingLineNumber = "18"
+                  offsetFromSymbolStart = "90">
+               </Location>
+               <Location
+                  uuid = "AEDECBF3-C5AB-4D93-BF68-D08AD9B4AF3A - b788392babbffad2"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ios_test_app.EditableDashboardViewController.persons.setter : Swift.Array&lt;ios_test_app.Persons&gt;"
+                  moduleName = "ios_test_app"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/macpro/Desktop/ios_test_app%202/ios_test_app/Modules/AditableDashboard/View/EditableDashboardViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "18"
+                  endingLineNumber = "18"
+                  offsetFromSymbolStart = "116">
+               </Location>
+               <Location
+                  uuid = "AEDECBF3-C5AB-4D93-BF68-D08AD9B4AF3A - 290ff54c7c334da1"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ios_test_app.EditableDashboardViewController.persons.modify : Swift.Array&lt;ios_test_app.Persons&gt;"
+                  moduleName = "ios_test_app"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/macpro/Desktop/ios_test_app%202/ios_test_app/Modules/AditableDashboard/View/EditableDashboardViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "18"
+                  endingLineNumber = "18"
+                  offsetFromSymbolStart = "0">
+               </Location>
+               <Location
+                  uuid = "AEDECBF3-C5AB-4D93-BF68-D08AD9B4AF3A - dc4b8f6361835383"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ios_test_app.EditableDashboardViewController.persons.modify : Swift.Array&lt;ios_test_app.Persons&gt; with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "ios_test_app"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/macpro/Desktop/ios_test_app%202/ios_test_app/Modules/AditableDashboard/View/EditableDashboardViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "18"
+                  endingLineNumber = "18"
+                  offsetFromSymbolStart = "15">
+               </Location>
+               <Location
+                  uuid = "AEDECBF3-C5AB-4D93-BF68-D08AD9B4AF3A - 7ef7ff765b1467bd"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ios_test_app.EditableDashboardViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; ios_test_app.EditableDashboardViewController"
+                  moduleName = "ios_test_app"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/macpro/Desktop/ios_test_app%202/ios_test_app/Modules/AditableDashboard/View/EditableDashboardViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "18"
+                  endingLineNumber = "18"
+                  offsetFromSymbolStart = "261">
+               </Location>
+               <Location
+                  uuid = "AEDECBF3-C5AB-4D93-BF68-D08AD9B4AF3A - f62794cdd4287f14"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ios_test_app.EditableDashboardViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;ios_test_app.EditableDashboardViewController&gt;"
+                  moduleName = "ios_test_app"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/macpro/Desktop/ios_test_app%202/ios_test_app/Modules/AditableDashboard/View/EditableDashboardViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "18"
+                  endingLineNumber = "18"
+                  offsetFromSymbolStart = "218">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "ABC6BE2B-1A3E-492D-ACC3-780965165773"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ios_test_app/Modules/AditableDashboard/View/EditableDashboardViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "57"
+            endingLineNumber = "57"
+            landmarkName = "refreshData(with:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "ABC6BE2B-1A3E-492D-ACC3-780965165773 - 774a8861f39ec6c2"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ios_test_app.EditableDashboardViewController.refreshData(with: Swift.Array&lt;ios_test_app.Persons&gt;) -&gt; ()"
+                  moduleName = "ios_test_app"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/macpro/Desktop/ios_test_app%202/ios_test_app/Modules/AditableDashboard/View/EditableDashboardViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "57"
+                  endingLineNumber = "57"
+                  offsetFromSymbolStart = "711">
+               </Location>
+               <Location
+                  uuid = "ABC6BE2B-1A3E-492D-ACC3-780965165773 - 774a8861f39ec6c2"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ios_test_app.EditableDashboardViewController.refreshData(with: Swift.Array&lt;ios_test_app.Persons&gt;) -&gt; ()"
+                  moduleName = "ios_test_app"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/macpro/Desktop/ios_test_app%202/ios_test_app/Modules/AditableDashboard/View/EditableDashboardViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "57"
+                  endingLineNumber = "57"
+                  offsetFromSymbolStart = "434">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>

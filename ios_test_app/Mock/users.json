@@ -1,0 +1,82 @@
+[
+    {
+        "username": "Bob River",
+        "avatarStringURL": "human1",
+        "id": 1,
+        "dateBirthday" : "",
+        "city" : "",
+        "info" : "info"
+    },
+    {
+        "username": "John Black",
+        "avatarStringURL": "human2",
+        "id": 2,
+        "dateBirthday" : "",
+        "city" : "",
+        "info" : "info"
+    },
+    {
+        "username": "Misha Red",
+        "avatarStringURL": "human3",
+        "id": 3,
+        "dateBirthday" : "",
+        "city" : "",
+        "info" : "info"
+    },
+    {
+        "username": "Alex Film",
+        "avatarStringURL": "human4",
+        "id": 4,
+        "dateBirthday" : "",
+        "city" : "",
+        "info" : "info"
+    },
+    {
+        "username": "Robert Martin",
+        "avatarStringURL": "human5",
+        "id": 5,
+        "dateBirthday" : "",
+        "city" : "",
+        "info" : "info"
+    },
+    {
+        "username": "Peter Brown",
+        "avatarStringURL": "human6",
+        "id": 6,
+        "dateBirthday" : "",
+        "city" : "",
+        "info" : "info"
+    },
+    {
+        "username": "Sarah White",
+        "avatarStringURL": "human7",
+        "id": 7,
+        "dateBirthday" : "",
+        "city" : "",
+        "info" : "info"
+    },
+    {
+        "username": "Melven Strong",
+        "avatarStringURL": "human8",
+        "id": 8,
+        "dateBirthday" : "",
+        "city" : "",
+        "info" : "info"
+    },
+    {
+        "username": "Nike Rose",
+        "avatarStringURL": "human9",
+        "id": 9,
+        "dateBirthday" : "",
+        "city" : "",
+        "info" : "info"
+    },
+    {
+        "username": "Andrey Velvet",
+        "avatarStringURL": "human10",
+        "id": 10,
+        "dateBirthday" : "",
+        "city" : "",
+        "info" : "info"
+    }
+]
